@@ -1,0 +1,17 @@
+{
+  "name": "api-todo-mariadb-expressjs",
+  "version": "1.0.0",
+  "description": "simple api for todo app using express js and mariaDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "expressJS",
+    "sql",
+    "mariaDB"
+  ],
+  "author": "Muhammad Fariz Baiquni",
+  "license": "ISC"
+}
